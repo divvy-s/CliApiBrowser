@@ -47,6 +47,9 @@ Reply saved to france.txt
 
 ## Requirements
 Python 3.8+
+
 requests
+
 python-dotenv
+
 rich
